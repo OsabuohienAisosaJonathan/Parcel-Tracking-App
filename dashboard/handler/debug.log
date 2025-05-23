@@ -1,0 +1,20 @@
+Array
+(
+    [tracking_code] => CX-20250521-60D686
+    [product_type] => SHOE
+    [payment_mode] => MASTER CARD
+    [weight] => 5
+    [quantity] => 6
+    [pickup_date] => 2025-05-24
+    [expected_delivery_date] => 2025-06-08
+    [departure_time] => 20:41
+    [destination] => London
+    [total_freight] => 12
+    [status] => Pending Payment
+    [shipper_name] => SPEEDAFY
+    [shipper_email] => lane@gmail.com
+    [shipper_address] => 8,  Col. Paul Ogbebor 
+    [receiver_name] => Romeil
+    [receiver_email] => romeil@gmail.com
+    [receiver_address] => 123 Norway drive N23 Eastwood avenue
+)
