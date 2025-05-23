@@ -71,7 +71,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/courier-x.git
+git clone https://github.com/OsabuohienAisosaJonathan/Parcel-Tracking-App.git
 cd courier-x
 Set up your database:
 
