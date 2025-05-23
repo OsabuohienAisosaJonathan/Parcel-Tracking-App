@@ -4,9 +4,11 @@
 
 
 📦 Courier-X
+
 Courier-X is a full-featured PHP web application for managing shipping and delivery logistics. It includes secure admin access, real-time shipment tracking, CRUD operations, session handling, activity logging, and responsive dashboard components—all integrated with AJAX for a seamless user experience.
 
 ✨ Features
+
 🔐 Admin Login with Session Timeout and Auto-Logout
 
 📄 Create, View, Edit, and Delete Shipping Records
@@ -26,6 +28,7 @@ Courier-X is a full-featured PHP web application for managing shipping and deliv
 🛡️ Input Sanitization & Prepared SQL Statements (PDO)
 
 📁 Project Structure
+
 plaintext
 Copy
 Edit
