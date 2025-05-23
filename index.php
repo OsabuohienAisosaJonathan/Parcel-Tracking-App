@@ -1,9 +1,10 @@
 <?php
+session_start();
 require_once 'db.php';
 require_once 'dashboard/handler/logger.php';
 
-// after inserting a record
-logActivity($pdo, $_SESSION['admin_username'], 'User tracked a shipment');
+$username = $_SESSION['admin_username'] ?? 'Guest';
+logActivity($pdo, $username, 'User tracked a shipment');
 
 $shipment = [];
 $trackingCode = $_GET['track_code'] ?? '';
